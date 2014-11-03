@@ -17,3 +17,6 @@
 
 # Idea Directory
 .idea
+
+# Ignore application configuration
+/config/application.yml
